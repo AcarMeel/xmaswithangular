@@ -1,0 +1,82 @@
+[
+        {
+            "productId": 1,
+            "productName": "xmas Ginger Bread Cookies",
+            "productCode": "F788",
+            "productPrice": 18.99,
+            "starRating": 4.5,
+            "image": "app/assets/img/gingerbread.png"
+        },
+        {
+            "productId": 2,
+            "productName": "xmas Candy Cane",
+            "productCode": "LK88",
+            "productPrice": 20,
+            "starRating": 3,
+            "image": "app/assets/img/candy-cane.png"
+        },
+        {
+            "productId": 3,
+            "productName": "xmas Rudolph Stuffed Animal",
+            "productCode": "MH543",
+            "productPrice": 40,
+            "starRating": 5,
+            "image": "app/assets/img/rudolph.png"
+        },
+        {
+            "productId": 4,
+            "productName": "xmas Gift box",
+            "productCode": "O89U",
+            "productPrice": 40,
+            "starRating": 2,
+            "image": "app/assets/img/giftbox.png"
+        },
+         {
+             "productId": 5,
+            "productName": "xmas snowbootx",
+            "productCode": "OweU",
+            "productPrice": 40,
+            "starRating": 2,
+            "image": "app/assets/img/snowboot.png"
+        },
+         {
+             "productId": 6,
+            "productName": "xmas shopping-bag",
+            "productCode": "mn9U",
+            "productPrice": 40,
+            "starRating": 2,
+            "image": "app/assets/img/shopping-bag.png"
+        },
+         {
+             "productId": 7,
+            "productName": "xmas sock",
+            "productCode": "O55U",
+            "productPrice": 40,
+            "starRating": 2,
+            "image": "app/assets/img/sock.png"
+        },
+         {
+             "productId": 8,
+            "productName": "xmas-hat",
+            "productCode": "O877",
+            "productPrice": 40,
+            "starRating": 2,
+            "image": "app/assets/img/xmas-hat.png"
+        },
+         {
+            "productId": 9,
+            "productName": "xmas-sweater",
+            "productCode": "O89c",
+            "productPrice": 40,
+            "starRating": 2,
+            "image": "app/assets/img/xmas-sweater.png"
+        },
+         {
+            "productId": 10,
+            "productName": "xmas-glove",
+            "productCode": "Olkc",
+            "productPrice": 40,
+            "starRating": 2,
+            "image": "app/assets/img/glove.png"
+        }
+    ]

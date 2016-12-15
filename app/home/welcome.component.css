@@ -1,0 +1,18 @@
+#header {
+    position: relative;
+    background: linear-gradient(rgba(0,0,0, .65), rgba(0,0,0, .65)), url(app/assets/img/snow.jpg);
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 100vh;
+    color: #fff;
+}
+
+#header .title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
